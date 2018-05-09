@@ -10,8 +10,8 @@
     - [Helping students](#helping-students)
     - [Assignment evaluation](#assignment-evaluation)
     - [Highlights of benefits of using this Git process as a teacher:](#highlights-of-benefits-of-using-this-git-process-as-a-teacher)
-    - [Challenges](#challenges)
-  - [Reflections upon the role Git plays in a wider goal of collaboration and community building](#reflections-upon-the-role-git-plays-in-a-wider-goal-of-collaboration-and-community-building)
+    - [Challenges?](#challenges)
+  - [The role Git in collaboration and community building](#the-role-git-in-collaboration-and-community-building)
 
 <!-- /TOC -->
 
@@ -106,12 +106,12 @@ Questions about whether better to host student repos on our newmapsplus account 
 
 * Teaching web cartography and web GIS is technically and time demanding; instructors need ways to maximize efficiency, and speeding up the transmission, management, and editing of student work (either help or evaluation) through command line and scripted Git processes serves this need.
 
-### Challenges
+### Challenges?
 
 
 
 
+## The role Git in collaboration and community building
 
-
-## Reflections upon the role Git plays in a wider goal of collaboration and community building
+* Beyond the benefits to course development, management, student gains, and teacher sanity, using Git helps facilitate greater collaboration within the classroom and, ultimately, with the broader community extending beyond our online learning environments. We can talk about these in terms of both the the workforce and the open source community (which we know are mutually intertwined).
 
