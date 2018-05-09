@@ -2,7 +2,7 @@
 
 <!-- TOC -->
 
-- [New maps in the new medium: <br> Teaching web cartography for a distributed workforce](#new-maps-in-the-new-medium-br-teaching-web-cartography-for-a-distributed-workforce)
+- [New maps in the new medium: <br> Teaching web cartography for a distributed workforce](#new-maps-in-the-new-medium--br-teaching-web-cartography-for-a-distributed-workforce)
     - [Introduction](#introduction)
   - [Using Git for course development and management](#using-git-for-course-development-and-management)
   - [Using Git within the learning process](#using-git-within-the-learning-process)
@@ -82,7 +82,6 @@
   3. Final submission is pushed up to repo
 
 Questions about whether better to host student repos on our newmapsplus account vs the students account:
-
 
 
 ### Helping students
