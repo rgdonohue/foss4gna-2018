@@ -9,10 +9,10 @@
 # New maps in the new medium
 
 ### Teaching web cartography for a distributed workforce
-@divend
- 
+
 [Rich Donohue](https://twitter.com/rgdonohue)  
 [Matt Wilson](https://twitter.com/wilsonism)
+@divend
 
 ---?image=assets/images/symap-assignment.png
 
