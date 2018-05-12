@@ -8,7 +8,7 @@
 @div[right-50]
 # New maps in the new medium
 
-### Teaching web cartography for a distributed workforce
+### Teaching web cartography for a distributed workforce  
 
 [Rich Donohue](https://twitter.com/rgdonohue)  
 [Matt Wilson](https://twitter.com/wilsonism)
