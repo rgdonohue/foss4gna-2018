@@ -20,10 +20,14 @@ a, a:visited {
 .reveal h4 {
   font-size: .8em;
   padding: .3em 1em;
-  background: rgba(40,40,40,.9);
+  background: rgba(0,136,186,.95);
   color: white;
   border-radius: 3px;
   display: inline-block;
+}
+
+.reveal h4 a {
+  color: white;
 }
 
 .reveal section img {
@@ -43,6 +47,19 @@ a, a:visited {
 
 .toc-title, .toc-title p {
   display: none;
+}
+
+img[src$='#float-right'] { float:right;}
+
+.list-float-left {
+  width: 40%;
+  float: left;
+
+}
+
+.list-float-left li {
+  font-size: .8em;
+  margin-bottom: 1.1em;
 }
 
 
