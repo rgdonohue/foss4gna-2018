@@ -1,22 +1,30 @@
 ---
-<!-- .slide: data-background-image="assets/images/dust_scratches.png" data-background-size="20% 20%" data-background-repeat="repeat" -->
+<!-- .slide: data-background-image="assets/images/dust_scratches.png" data-background-size="auto" data-background-repeat="repeat" -->
 
+@div[left-50]
+![logo](assets/images/logo.png)
+@divend
+
+@div[right-50]
 # New maps in the new medium
 
 ### Teaching web cartography for a distributed workforce
+@divend
  
-[@rgdonohue](https://twitter.com/rgdonohue)  
-[@wilsonism](https://twitter.com/wilsonism)
+[Rich Donohue](https://twitter.com/rgdonohue)  
+[Matt Wilson](https://twitter.com/wilsonism)
 
----?image=assets/images/test3.png&opacity=90
+---?image=assets/images/symap-assignment.png
 
-#### Assignment from SYMAP<br> coorespondence course
+#### Assignment from SYMAP<br> correspondence course, 1965
 
----?image=assets/images/test2.png&opacity=90
+---?image=assets/images/symap-map.png
 
-#### SYMAP coding form
+#### Map produced from SYMAP, 1965
 
----?image=assets/images/symap3.png
+---?image=assets/images/symap-coding-form.png
+
+#### SYMAP correspondence coding form, 1965
 
 ---
 <!-- .slide: data-background-image="assets/images/dust_scratches.png" data-background-size="20% 20%" data-background-repeat="repeat" -->
