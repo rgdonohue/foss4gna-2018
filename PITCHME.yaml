@@ -1,5 +1,11 @@
+layout : center-right
 
+# logo : assets/images/logo.png
 
-layout : center-left
+theme-override : assets/css/PITCHME.css
 
-logo : assets/images/logo-horizontal.png
+vertical-center : false
+
+transition : fade
+
+footnote: "@NewMapsPlus"

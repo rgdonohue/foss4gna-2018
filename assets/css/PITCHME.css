@@ -1,0 +1,43 @@
+body {
+
+}
+.reveal h1 {
+  text-transform: none;
+  color: #00aae9;
+  line-height: 1em;
+}
+.reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+  font-family: 'Proxima Nova';
+  text-transform: none;
+  font-weight: 400;
+}
+
+.reveal h4 {
+  font-size: .8em;
+  padding: .3em 1em;
+  background: rgba(256,256,256,.8);
+  border-radius: 3px;
+  display: inline-block;
+}
+
+.reveal section img {
+  border: 2px solid lightgrey;
+}
+
+.gp-menu {
+  display: none;
+} 
+
+.footer {
+  font-size: 2em;
+}
+/* #notification {
+  display: none;
+} */
+
+.toc-title, .toc-title p {
+  display: none;
+}
+
+
+

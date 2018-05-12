@@ -3,19 +3,24 @@
 <!-- TOC -->
 
 - [New maps in the new medium: <br> Teaching web cartography for a distributed workforce](#new-maps-in-the-new-medium--br-teaching-web-cartography-for-a-distributed-workforce)
-    - [Introduction](#introduction)
+  - [Opener](#opener)
+  - [Overview of New Maps Plus](#overview-of-new-maps-plus)
   - [Using Git for course development and management](#using-git-for-course-development-and-management)
+    - [Highlights of benefits of using this Git process as a teacher:](#highlights-of-benefits-of-using-this-git-process-as-a-teacher)
   - [Using Git within the learning process](#using-git-within-the-learning-process)
     - [Course content form and delivery](#course-content-form-and-delivery)
     - [Helping students](#helping-students)
     - [Assignment evaluation](#assignment-evaluation)
-    - [Highlights of benefits of using this Git process as a teacher:](#highlights-of-benefits-of-using-this-git-process-as-a-teacher)
     - [Challenges?](#challenges)
   - [The role Git in collaboration and community building](#the-role-git-in-collaboration-and-community-building)
 
 <!-- /TOC -->
 
-### Introduction
+## Opener
+
+Poetic gesture toward historical distance GIS education ... the hook. (3 minutes)
+
+## Overview of New Maps Plus
 
 * Rich Donohue and Matt Wilson teach geography and mapping at UK Geography
 * Recently designed, built, and now instruct courses in a new program called New Maps Plus
@@ -57,9 +62,14 @@
 * **challenges:**
   * the Git learning curve is challenging (make crack at teaching old dogs new tricks and Profs having meltdowns with merge conflicts)
   * Git doesn't track binary formats such as Shapefiles (so not suitable for all GIS teaching needs)
+  * Geo data can be large. need to be careful with pushing large files to GitHub repos and use alternative solutions 
 * **recommendations:**
   * teacher training to include use of Git and GitHub
   * start with Git GUIs such as GitHub Desktop or SourceTree
+
+### Highlights of benefits of using this Git process as a teacher:
+
+* Teaching web cartography and web GIS is technically and time demanding; instructors need ways to maximize efficiency, and speeding up the transmission, management, and editing of student work (either help or evaluation) through command line and scripted Git processes serves this need.
 
 ## Using Git within the learning process
 
@@ -83,7 +93,6 @@
 
 Questions about whether better to host student repos on our newmapsplus account vs the students account:
 
-
 ### Helping students
 
 * When students need help:
@@ -100,11 +109,6 @@ Questions about whether better to host student repos on our newmapsplus account 
 * Evaluation follows the same proceedure 
 * Git used to help give concise feedback of written answers to quiz questions
 * Git used to track editing of written prose as well, demonstrating the potential for the use of Git and Markdown in writing courses beyond a more technical curriculum
-
-
-### Highlights of benefits of using this Git process as a teacher:
-
-* Teaching web cartography and web GIS is technically and time demanding; instructors need ways to maximize efficiency, and speeding up the transmission, management, and editing of student work (either help or evaluation) through command line and scripted Git processes serves this need.
 
 ### Challenges?
 
