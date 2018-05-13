@@ -78,6 +78,15 @@ Note:
 
 ### But... what is a 'Git'?
 
+@div
+<br>
+@ol
+- Classrooms are composed of little learning events
+- Students receive feedback on their ability to demonstrate learning
+- In a distributed, asychronous classroom, Git provides a system for managing feedback, iteration, and documentation of learnin 
+@olend
+@divend
+
 ---?image=assets/images/markdownlogo.png&size=90% 90%
 
 ### And, wait... we also write in 'Markdown'?
