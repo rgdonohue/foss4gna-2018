@@ -74,10 +74,67 @@ Note:
 
 ## Part I. How we use Git for course development and management
 
+---
+
+### Node scripts used to automate course management tasks
+
+```javascript
+var markdownpdf = require("markdown-pdf"), 
+    fs = require("fs")
+
+fs.createReadStream("./syllabus.md")
+    .pipe(markdownpdf({
+
+    }))
+.pipe(fs.createWriteStream("MAP_673_Syllabus.pdf"))
+
+console.log('PDF syllabus written to file')
+```
 
 ---
 
 ## Part II. How using Git makes the learning process better
+
+
+---
+
+### Highly recommended! Use GitHub Classroom
+
+![GitHub Classroom](assets/images/github-classroom.png)
+
+
+
+
+---?image=assets/images/starter-template.png&size=auto 100%
+
+### Starter template for each course module
+
+<!-- ![starter template](assets/images/starter-template.png) -->
+
+
+---
+
+### Student repos created from starter template
+
+<!-- .slide: data-background-image="assets/images/dust_scratches.png" data-background-size="20% 20%" data-background-repeat="repeat" -->
+
+@div[left-50]
+![starter template](assets/images/starter-copied.png)
+@divend
+
+@div[right-50]
+<br>
+@ul[icon-list]
+- @fa[thumbs-up fa=5x fa-green] Repos are private and part of the NMP GitHub account
+- @fa[thumbs-up fa=5x fa-green] Instructor already has admin and collaborative rights
+- @fa[thumbs-down fa=4x fa-red] Module not hosted on student's account
+- @fa[thumbs-down fa=4x fa-red] Difficult for student peers to help each other
+@ulend
+@divend
+
+
+
+
 
 
 ---

@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans');
-@import url('https://fonts.googleapis.com/css?family=Lora');
+/* @import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Lora'); */
 body {
   color: rgb(0,136,186);
 }
@@ -30,6 +30,7 @@ a, a:visited {
   color: white;
   border-radius: 3px;
   display: inline-block;
+  max-width: 40%;
 }
 
 .reveal h3 a {
@@ -50,12 +51,25 @@ a, a:visited {
 
 .reveal li {
   font-size: .7em;
-  margin-bottom: 1em;
+  margin-bottom: .7em;
   color: #008abc;
 }
 
 .reveal ol.roman {
   list-style-type: upper-roman;
+}
+
+.reveal ul.icon-list {
+  list-style-type: none;
+  list-style-position: outside;
+}
+
+.fa-green {
+  color: #01aa46;
+}
+
+.fa-red {
+  color: #dc2b28;
 }
 
 
