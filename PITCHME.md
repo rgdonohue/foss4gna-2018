@@ -5,7 +5,7 @@
 ## Teaching web cartography for a distributed workforce  
 <br><br>
 [Rich Donohue](https://twitter.com/rgdonohue)  
-[Matt Wilson](https://twitter.com/wilsonism)
+[Matthew W. Wilson](https://twitter.com/wilsonism)
 
 ---?image=assets/images/symap-assignment.png
 
