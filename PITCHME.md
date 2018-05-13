@@ -21,10 +21,26 @@
 
 ---?image=assets/images/nmp-website.png&size=auto
 
-### [https://newmapsplus.uky.edu/](https://newmapsplus.uky.edu/)
+### [NewMapsPlus at the University of Kentucky](https://newmapsplus.uky.edu/)
 
-Note:
+---
 
+### [NewMapsPlus at the University of Kentucky](https://newmapsplus.uky.edu/)
+
+@div[right-60]
+![](assets/images/nmp-website.png)
+@divend
+
+@div[left-40]
+<br>
+@ol
+- began in Fall of 2015
+- offers 12+ courses per year
+- nearly 170 students have completed coursework
+- 56 students have graduated with a certificate
+- around a dozen more are currently taking additional courses that can be applied to a Masters degree
+@olend
+@divend
 
 ---
 
@@ -76,11 +92,11 @@ Note:
 
 ---?image=assets/images/gitlogo.png&size=90% 90%
 
-### But... what is a 'Git'?
+### But, wait: what is a 'Git'?
 
 ---
 
-### Or... why use Git in the classroom?
+### Or: why use Git in the classroom?
 
 @div[left-60]
 <br>
@@ -97,11 +113,11 @@ Note:
 
 ---?image=assets/images/markdownlogo.png&size=90% 90%
 
-### And, wait... we also write in 'Markdown'?
+### And, wait: we also write in 'Markdown'?
 
 ---
 
-### And, wait... we also write in 'Markdown'?
+### And, wait: we also write in 'Markdown'?
 
 @div[left-60]
 <br>
