@@ -74,21 +74,25 @@ Note:
 
 ## Part I. How we use Git for course development and management
 
----
+---?image=assets/images/gitlogo.png&size=90% 90%
 
 ### But... what is a 'Git'?
+
+---
+
+### Or... why use Git in the classroom?
 
 @div[left-60]
 <br>
 @ol
 - Classrooms are composed of little learning events
 - Students receive feedback on their ability to demonstrate learning
-- In a distributed, asychronous classroom, Git provides a system for managing feedback, iteration, and documentation of learning 
+- In a distributed, asynchronous classroom, Git provides a system for managing feedback, iteration, and documentation of learning 
 @olend
 @divend
 
 @div[right-40]
-![git logo](assets/images/gitlogo.png)
+![git logo](assets/images/gitlogo.png&size=150% 150%)
 @divend
 
 ---?image=assets/images/markdownlogo.png&size=90% 90%
