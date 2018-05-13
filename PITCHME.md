@@ -74,17 +74,21 @@ Note:
 
 ## Part I. How we use Git for course development and management
 
----?image=assets/images/gitlogo.png&size=90% 90%
+---
 
 ### But... what is a 'Git'?
 
-@div
+@div[left-60]
 <br>
 @ol
 - Classrooms are composed of little learning events
 - Students receive feedback on their ability to demonstrate learning
-- In a distributed, asychronous classroom, Git provides a system for managing feedback, iteration, and documentation of learnin 
+- In a distributed, asychronous classroom, Git provides a system for managing feedback, iteration, and documentation of learning 
 @olend
+@divend
+
+@div[right-40]
+![git logo](assets/images/gitlogo.png)
 @divend
 
 ---?image=assets/images/markdownlogo.png&size=90% 90%
