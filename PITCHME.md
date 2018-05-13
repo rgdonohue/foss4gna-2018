@@ -2,7 +2,7 @@
 
 # New maps in<br> the new medium
 
-## Teaching web cartography for a distributed workforce  
+## Teaching web cartography <br>for a distributed workforce  
 <br><br>
 [Rich Donohue](https://twitter.com/rgdonohue)  
 [Matthew W. Wilson](https://twitter.com/wilsonism)
