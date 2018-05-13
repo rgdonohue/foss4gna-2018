@@ -74,7 +74,8 @@ Note:
 
 ## Part I. How we use Git for course development and management
 
----?image=assets/images/gitlogo.png&size=100% 90%&opacity=20%
+---
+<!-- .slide: data-background-image="assets/images/gitlogo.png" data-background-size="20% 20%" data-background-repeat="repeat" -->
 
 ### But... what is a 'Git'?
 
