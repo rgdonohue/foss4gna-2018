@@ -59,11 +59,11 @@ Note:
 
 @div[left-60]
 <br>
-<ol class="roman">
-<li>How we use Git for course development and management</li>
-<li>How using Git makes the learning process better</li>
-<li>How using Git plays promotes collaboration and builds community</li>
-</ol>
+@ol
+- How we use Git for course development and management
+- How using Git makes the learning process better
+- How using Git plays promotes collaboration and builds community
+@olend
 @divend
 
 @div[right-40]
@@ -74,10 +74,6 @@ Note:
 
 ## Part I. How we use Git for course development and management
 
-Note:
-* Using Git for course development and management
-* Using Git within the learning process
-* Reflections upon the role Git plays in a wider goal of collaboration and 
 
 ---
 
