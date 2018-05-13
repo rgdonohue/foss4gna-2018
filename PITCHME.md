@@ -32,13 +32,12 @@
 @divend
 
 @div[left-40]
-<br>
 @ol
 - began in Fall of 2015
 - offers 12+ courses per year
 - nearly 170 students have completed coursework
 - 56 students have graduated with a certificate
-- around a dozen more are currently taking additional courses that can be applied to a Masters degree
+- around a dozen more currently taking 'post-certificate' courses
 @olend
 @divend
 
