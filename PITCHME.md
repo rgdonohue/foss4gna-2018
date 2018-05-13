@@ -92,12 +92,29 @@ Note:
 @divend
 
 @div[right-40]
-![git logo](assets/images/gitlogo.png&size=150% 150%)
+![git logo](assets/images/gitlogo.png)
 @divend
 
 ---?image=assets/images/markdownlogo.png&size=90% 90%
 
 ### And, wait... we also write in 'Markdown'?
+
+---
+
+### And, wait... we also write in 'Markdown'?
+
+@div[left-60]
+<br>
+@ol
+- Students receive feedback from instructors in Markdown
+- Students document their web map designs in Markdown
+- Students evaluate other students' work, and the work of professionals, in Markdown
+@olend
+@divend
+
+@div[right-40]
+![markdown logo](assets/images/markdownlogo.png)
+@divend
 
 ---
 
