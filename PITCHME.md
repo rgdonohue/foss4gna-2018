@@ -2,7 +2,7 @@
 
 # New maps in<br> the new medium
 
-## Teaching web cartography <br>for a distributed workforce  
+## Teaching web cartography<br> for a distributed workforce  
 <br><br>
 [Rich Donohue](https://twitter.com/rgdonohue)  
 [Matthew W. Wilson](https://twitter.com/wilsonism)
@@ -73,6 +73,10 @@ Note:
 ---
 
 ## Part I. How we use Git for course development and management
+
+---?image=assets/images/gitlogo.png&size=100% 90%&opacity=20%
+
+### But... what is a 'Git'?
 
 ---
 
