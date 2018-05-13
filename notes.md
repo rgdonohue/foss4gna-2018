@@ -113,9 +113,13 @@ Questions about whether better to host student repos on our newmapsplus account 
 ### Challenges?
 
 
-
-
 ## The role Git in collaboration and community building
 
-* Beyond the benefits to course development, management, student gains, and teacher sanity, using Git helps facilitate greater collaboration within the classroom and, ultimately, with the broader community extending beyond our online learning environments. We can talk about these in terms of both the the workforce and the open source community (which we know are mutually intertwined).
+Beyond the benefits to course development, management, student gains, and teacher sanity, using Git helps facilitate greater collaboration within the classroom and, ultimately, with the broader community extending beyond our online learning environments. We can talk about these in terms of both the the workforce and the open source community (which we know are mutually intertwined).
+
+Examples:
+
+* MAP675 explicitly uses Git for pairing up students as course team members for assignments (facilitates async remote work between them while demanding a greater competency with branching, merging, etc.)
+* NMP is also beginning to use shared GitHub repos to produce solutions to be shared among and beyond our students (e.g., the Turf examples repo)
+* With student knowledge of Git, greater potential for them to work with and contribute back to the community (example of students doing Pull Requests on existing libraries)
 

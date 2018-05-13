@@ -1,127 +1,90 @@
 <!-- .slide: data-background-image="assets/images/dust_scratches.png" data-background-size="20% 20%" data-background-repeat="repeat" -->
 
-# New maps in the new medium
+# New maps in<br> the new medium
 
-### Teaching web cartography for a distributed workforce  
-
+## Teaching web cartography for a distributed workforce  
+<br><br>
 [Rich Donohue](https://twitter.com/rgdonohue)  
 [Matt Wilson](https://twitter.com/wilsonism)
 
 ---?image=assets/images/symap-assignment.png
 
-#### Assignment from SYMAP<br> correspondence course, 1965
+### Assignment from SYMAP<br> correspondence course, 1965
 
 ---?image=assets/images/symap-map.png
 
-#### Map produced from SYMAP, 1965
+### Map produced from SYMAP, 1965
 
 ---?image=assets/images/symap-coding-form.png
 
-#### SYMAP correspondence<br> coding form, 1965
+### SYMAP correspondence<br> coding form, 1965
 
 ---?image=assets/images/nmp-website.png&size=auto
 
-#### [https://newmapsplus.uky.edu/](https://newmapsplus.uky.edu/)
+### [https://newmapsplus.uky.edu/](https://newmapsplus.uky.edu/)
 
 Note:
 
 
 ---
 
-#### New Maps Plus objectives
+### New Maps Plus learning objectives
 
 <!-- .slide: data-background-image="assets/images/dust_scratches.png" data-background-size="20% 20%" data-background-repeat="repeat" -->
 
-![](assets/images/web-mapping-workflow.png#float-right)
+@div[right-60]
+![](assets/images/web-mapping-workflow.png)
+@divend
 
-<ol class='list-float-left'>
-<li>apply traditional cartographic principles to web mapping</li>
-<li>use open source tools for geospatial processing and data analysis tasks</li>
-<li>employ web design and development using HTML/CSS/JavaScript to make maps</li>
-</ol>
+@div[left-40]
+<br>
+@ol
+- apply traditional cartographic principles to web mapping
+- employ open source tools for geospatial processing and data analysis tasks
+- master web design and development using open standards to make maps
+@olend
+@divend
 
 ---?image=assets/images/tools.png&size=100% 90%
 
-#### Some of our favorite tools
+### Some of our favorite tools
+
+---?image=assets/images/tools2.png&size=100% 90%
+
+### What we're talking about today
 
 ---
 
-## Where this talk is heading?
+### Where this talk is heading?
 
-* Using Git for course development and management
-* Using Git within the learning process
-* Reflections upon the role Git plays in a wider goal of collaboration and community building
+@div[left-60]
+<br>
+<ol class="roman">
+<li>How we use Git for course development and management</li>
+<li>How using Git makes the learning process better</li>
+<li>How using Git plays promotes collaboration and builds community</li>
+</ol>
+@divend
+
+@div[right-40]
+![git tree](assets/images/git-tree.png)
+@divend
 
 ---
 
-
-## Using Git for course development and management
+## Part I. How we use Git for course development and management
 
 Note:
 * Using Git for course development and management
 * Using Git within the learning process
 * Reflections upon the role Git plays in a wider goal of collaboration and 
 
-
-
-
----?image=assets/images/test1.png&size= auto 90
-
-#### example repo from NMP student
-
 ---
 
-## Using Git for course development and management
-
-### challenges
+## Part II. How using Git makes the learning process better
 
 
 ---
 
-## Using Git for course development and management
-
-### recommendations
-
-
----
-
-## Using Git within the learning process
-
-* course content form and delivery
-* helping students
-* assignment evaluation
-
-
----?layout=center
-
-### Course content form and delivery
-
-
----
-
-### Helping students
-
-
----
-
-### Assignment evaluation
-
-
----
-
-## Collaboration and community
-
-
----
-
-
----
-
-
----
-
-
----
-
-
+## Part III. How using Git plays promotes collaboration and builds community
 
