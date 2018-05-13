@@ -9,15 +9,15 @@
 
 ---?image=assets/images/symap-assignment.png
 
-### Assignment from SYMAP<br> correspondence course, 1965
+### Assignment from SYMAP<br> correspondence course, ca. 1967
 
 ---?image=assets/images/symap-map.png
 
-### Map produced from SYMAP, 1965
+### Map produced from SYMAP, ca. 1967
 
 ---?image=assets/images/symap-coding-form.png
 
-### SYMAP correspondence<br> coding form, 1965
+### SYMAP correspondence<br> coding form, ca. 1967
 
 ---?image=assets/images/nmp-website.png&size=auto
 
