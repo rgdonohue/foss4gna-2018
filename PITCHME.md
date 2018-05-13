@@ -61,8 +61,8 @@ Note:
 <br>
 @ol
 - How we use Git for course development and management
-- How using Git makes the learning process better
-- How using Git plays promotes collaboration and builds community
+- How using Git improves the learning process
+- How using Git promotes collaboration and builds community
 @olend
 @divend
 
@@ -93,7 +93,7 @@ console.log('PDF syllabus written to file')
 
 ---
 
-## Part II. How using Git makes the learning process better
+## Part II. How using Git improves the learning process
 
 
 ---
@@ -139,5 +139,5 @@ console.log('PDF syllabus written to file')
 
 ---
 
-## Part III. How using Git plays promotes collaboration and builds community
+## Part III. How using Git promotes collaboration and builds community
 
