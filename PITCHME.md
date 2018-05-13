@@ -78,6 +78,10 @@ Note:
 
 ### But... what is a 'Git'?
 
+---?image=assets/images/markdownlogo.png&size=90% 90%
+
+### And, wait... we also write in 'Markdown'?
+
 ---
 
 ### Node scripts used to automate course management tasks
