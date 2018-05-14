@@ -41,6 +41,10 @@
 @ulend
 @divend
 
+---?image=assets/images/storytime.jpg
+
+### Story time
+
 ---
 
 ### Map produced from SYMAP?
