@@ -23,9 +23,6 @@
 
 ### [https://newmapsplus.uky.edu/](https://newmapsplus.uky.edu/)
 
-Note:
-
-
 ---
 
 ### New Maps Plus learning objectives
@@ -53,6 +50,14 @@ Note:
 
 ### What we're talking about today
 
+@div[left-60]
+@ul
+- distributed version control system
+- makes it impossible to lose information
+- makes it impossible to retrieve information
+@ulend
+@divend
+
 ---
 
 ### Where this talk is heading?
@@ -60,9 +65,9 @@ Note:
 @div[left-60]
 <br>
 @ol
-- How we use Git for course development and management
+- Using Git for course development and management
 - How using Git improves the learning process
-- How using Git promotes collaboration and builds community
+- The role Git in collaboration and community building
 @olend
 @divend
 
@@ -72,7 +77,10 @@ Note:
 
 ---
 
-## Part I. How we use Git for course development and management
+## Part I. Using Git for course development and management
+
+![course master repo](assets/images/course-master-repo.png)
+
 
 ---
 
@@ -90,10 +98,12 @@ fs.createReadStream("./syllabus.md")
 
 console.log('PDF syllabus written to file')
 ```
+---
+
 
 ---
 
-## Part II. How using Git improves the learning process
+## Part II. Using Git within the learning process
 
 
 ---
@@ -139,5 +149,5 @@ console.log('PDF syllabus written to file')
 
 ---
 
-## Part III. How using Git promotes collaboration and builds community
+## Part III. The role Git in collaboration and community building
 
