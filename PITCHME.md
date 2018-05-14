@@ -145,6 +145,23 @@
 
 ## Part I. How we use Git for<br> <b>course development</b> and management
 
+@div[left-60]
+<br>
+@ol
+- In the beginning, we didn't know what we were doing
+- But that was a terrific way to start from scratch and make mistakes
+- Decision was made to avoid proprietary formats for encoding information (Word, Google Docs, etc)
+@olend
+@divend
+
+@div[right-40]
+![galaxy](assets/images/galaxy.jpg)
+@divend
+
+---
+
+## Part I. How we use Git for<br> course development and <b>management</b>
+
 ---
 
 ### Node scripts used to automate course management tasks
@@ -161,9 +178,6 @@ fs.createReadStream("./syllabus.md")
 
 console.log('PDF syllabus written to file')
 ```
----
-
-
 
 
 ---
