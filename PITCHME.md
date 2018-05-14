@@ -41,14 +41,17 @@
 @ulend
 @divend
 
+---?image=assets/images/symap-map.png
+
+### Map produced from SYMAP?
+
+---
+
+### Map produced from SYMAP, ca. 1967
 
 ---?image=assets/images/symap-assignment.png
 
 ### Assignment from SYMAP<br> correspondence course, ca. 1967
-
----?image=assets/images/symap-map.png
-
-### Map produced from SYMAP, ca. 1967
 
 ---?image=assets/images/symap-coding-form.png
 
