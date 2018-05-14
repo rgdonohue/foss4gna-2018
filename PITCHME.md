@@ -87,7 +87,7 @@
 
 ---
 
-## Part I. How we use Git for course development and management
+## Part I. How we use Git for<br> course development and management
 
 ---?image=assets/images/gitlogo.png&size=90% 90%
 
@@ -133,6 +133,10 @@
 
 ---
 
+## Part I. How we use Git for<br> <b>course development</b> and management
+
+---
+
 ### Node scripts used to automate course management tasks
 
 ```javascript
@@ -148,9 +152,11 @@ fs.createReadStream("./syllabus.md")
 console.log('PDF syllabus written to file')
 ```
 
+
+
 ---
 
-## Part II. How using Git improves the learning process
+## Part II. How using Git improves<br> the learning process
 
 
 ---
@@ -196,5 +202,5 @@ console.log('PDF syllabus written to file')
 
 ---
 
-## Part III. How using Git promotes collaboration and builds community
+## Part III. How using Git promotes<br> collaboration and builds community
 
