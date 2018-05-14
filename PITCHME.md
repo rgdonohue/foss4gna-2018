@@ -55,9 +55,14 @@
 
 ---
 
-### Story time
+### Story time: SYMAP?
+
+---
+
+### Story time: CARD MAPPING --> SYMAP
 
 @div[left-50]
+<br>
 <br>
 <br>
 ![](assets/images/horwoodmap.jpg)
@@ -68,10 +73,6 @@
 @divend
 
 ---
-
-### Map produced from SYMAP?
-
----?image=assets/images/symap-map.png
 
 ### Map produced from SYMAP, ca. 1967
 
