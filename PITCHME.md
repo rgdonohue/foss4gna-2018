@@ -72,7 +72,7 @@
 ![](assets/images/fisher-benson-symap.jpg)
 @divend
 
----
+---?image=assets/images/symap-map.png
 
 ### Map produced from SYMAP, ca. 1967
 
