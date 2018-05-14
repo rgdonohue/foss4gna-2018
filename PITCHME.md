@@ -7,6 +7,39 @@
 [Rich Donohue](https://twitter.com/rgdonohue)  
 [Matthew W. Wilson](https://twitter.com/wilsonism)
 
+---
+
+## Rich Donohue
+
+@div[left-40]
+![](assets/images/donohue.jpg)
+@divend
+
+@div[right-40]
+@ol
+- PhD in Geography from the University of Wisconsin
+- more stuff
+- something funny
+@olend
+@divend
+
+---
+
+## Matthew W. Wilson
+
+@div[left-40]
+![](assets/images/wilson.jpg)
+@divend
+
+@div[right-40]
+@ol
+- PhD in Geography from the University of Washington
+- new book [New Lines: Critical GIS and the Trouble of the Map](https://www.upress.umn.edu/book-division/books/new-lines)
+- learned Markdown and Git for this presentation
+@olend
+@divend
+
+
 ---?image=assets/images/symap-assignment.png
 
 ### Assignment from SYMAP<br> correspondence course, ca. 1967
