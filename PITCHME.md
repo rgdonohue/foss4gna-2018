@@ -7,13 +7,78 @@
 [Rich Donohue](https://twitter.com/rgdonohue)  
 [Matthew W. Wilson](https://twitter.com/wilsonism)
 
----?image=assets/images/symap-assignment.png
+---
 
-### Assignment from SYMAP<br> correspondence course, ca. 1967
+## Rich Donohue
+
+@div[left-40]
+![](assets/images/donohue.jpg)
+@divend
+
+@div[right-60]
+@ul
+- PhD in Geography from the University of Wisconsin
+- more stuff
+- something funny
+@ulend
+@divend
+
+---
+
+## Matthew W. Wilson
+
+@div[left-40]
+![](assets/images/wilson.jpg)
+@divend
+
+@div[right-60]
+@ul
+- PhD in Geography from the University of Washington
+- from a small town in northwest Missouri: Pumpkin Center
+- new book [New Lines: Critical GIS and the Trouble of the Map](https://www.upress.umn.edu/book-division/books/new-lines)
+- learned Markdown and Git for this presentation
+- <i>and obviously not very well</i>
+@ulend
+@divend
+
+---?image=assets/images/storytime.jpg
+
+### Story time
+
+---?image=assets/images/harvard-divinity.jpg
+
+### Story time
+
+---?image=assets/images/harvard-memorialhall.jpg
+
+### Story time
+
+---
+
+### Story time: SYMAP?
+
+---
+
+### CARD MAPPING --> SYMAP
+
+@div[left-50]
+<br>
+<br>
+<br>
+![](assets/images/horwoodmap.jpg)
+@divend
+
+@div[right-50]
+![](assets/images/fisher-benson-symap.jpg)
+@divend
 
 ---?image=assets/images/symap-map.png
 
 ### Map produced from SYMAP, ca. 1967
+
+---?image=assets/images/symap-assignment.png
+
+### Assignment from SYMAP<br> correspondence course, ca. 1967
 
 ---?image=assets/images/symap-coding-form.png
 
@@ -21,11 +86,11 @@
 
 ---?image=assets/images/nmp-website.png&size=auto
 
-### [NewMapsPlus at the University of Kentucky](https://newmapsplus.uky.edu/)
+### [New Maps Plus at the U of Kentucky](https://newmapsplus.uky.edu/)
 
 ---
 
-### [NewMapsPlus at the University of Kentucky](https://newmapsplus.uky.edu/)
+### [New Maps Plus at the U of Kentucky](https://newmapsplus.uky.edu/)
 
 @div[right-60]
 ![](assets/images/nmp-website.png)
@@ -145,6 +210,23 @@
 
 ## Part I. How we use Git for<br> <b>course development</b> and management
 
+@div[left-60]
+<br>
+@ol
+- In the beginning, we didn't know what we were doing
+- But that was a terrific way to start from scratch and make mistakes
+- Decision was made to avoid proprietary formats for encoding information (Word, Google Docs, etc)
+@olend
+@divend
+
+@div[right-40]
+![galaxy](assets/images/galaxy.jpg)
+@divend
+
+---
+
+## Part I. How we use Git for<br> course development and <b>management</b>
+
 ---
 
 ### Node scripts used to automate course management tasks
@@ -161,9 +243,6 @@ fs.createReadStream("./syllabus.md")
 
 console.log('PDF syllabus written to file')
 ```
----
-
-
 
 
 ---
