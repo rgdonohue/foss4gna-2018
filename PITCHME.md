@@ -16,11 +16,11 @@
 @divend
 
 @div[right-60]
-@ol
+@ul[squares]
 - PhD in Geography from the University of Wisconsin
 - more stuff
 - something funny
-@olend
+@ulend
 @divend
 
 ---
@@ -32,11 +32,13 @@
 @divend
 
 @div[right-60]
-@ol
+@ul[squares]
 - PhD in Geography from the University of Washington
+- from a small town in northwest Missouri: Pumpkin Center
 - new book [New Lines: Critical GIS and the Trouble of the Map](https://www.upress.umn.edu/book-division/books/new-lines)
 - learned Markdown and Git for this presentation
-@olend
+- and obviously not very well
+@ulend
 @divend
 
 
