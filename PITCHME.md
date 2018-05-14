@@ -1,5 +1,3 @@
-<!-- .slide: data-background-image="assets/images/dust_scratches.png" data-background-size="20% 20%" data-background-repeat="repeat" -->
-
 # New maps in<br> the new medium
 
 ## Teaching web cartography<br> for a distributed workforce  
@@ -17,8 +15,8 @@
 
 @div[right-60]
 @ul
-- PhD in Geography from the University of Wisconsin
-- more stuff
+- PhD in Geography from the University of Wisconsin-Madison
+- from a small town in SW Colorado
 - something funny
 @ulend
 @divend
@@ -97,20 +95,18 @@
 @divend
 
 @div[left-40]
-@ol
+@ul
 - began in Fall of 2015
 - offers 12+ courses per year
 - nearly 170 students have completed coursework
 - 56 students have graduated with a certificate
 - around a dozen more currently taking 'post-certificate' courses
-@olend
+@ulend
 @divend
 
 ---
 
 ### New Maps Plus learning objectives
-
-<!-- .slide: data-background-image="assets/images/dust_scratches.png" data-background-size="20% 20%" data-background-repeat="repeat" -->
 
 @div[right-60]
 ![](assets/images/web-mapping-workflow.png)
@@ -125,19 +121,55 @@
 @olend
 @divend
 
----?image=assets/images/tools.png&size=100% 90%
+---?image=assets/images/tools.png&size=auto
 
 ### Some of our favorite tools
 
----?image=assets/images/tools2.png&size=100% 90%
+---?image=assets/images/tools2.png&size=auto
 
 ### What we're talking about today
 
-@div[left-60]
+---?image=assets/images/tools2.png&size=auto
+
+### What we're talking about today
+
+@div[left-40]
+<br>
+**Wait, but what is Git?**
+<br><br>
 @ul
 - distributed version control system
-- makes it impossible to lose information
-- makes it impossible to retrieve information
+- open source de facto standard integrated with GitHub
+- works well with text-based information like code and Markdown
+@ulend
+@divend
+
+---?image=assets/images/tools2.png&size=auto
+
+### What we're talking about today
+
+@div[left-40]
+<br>
+**What is GitHub, then?**
+<br><br>
+@ul
+- for-profit company hosting Git-enabled repositories
+- provides additional web services (Issue tracking, project Wiki)
+- offers (free) web-hosting ... great for student maps and portfolios!
+@ulend
+@divend
+
+---?image=assets/images/tools2.png&size=auto
+
+### What we're talking about today
+
+@div[left-40]
+<br>
+**Okay, and what is Markdown?**
+<br><br>
+@ul
+- lightweight syntax written in plain text
+- used for rendering text content, images, code snippets, and URLs in a web document
 @ulend
 @divend
 
@@ -148,7 +180,7 @@
 @div[left-60]
 <br>
 @ol
-- Using Git for course development and management
+- Using Git and Markdown for course development and management
 - How using Git improves the learning process
 - The role Git in collaboration and community building
 @olend
@@ -158,78 +190,42 @@
 ![git tree](assets/images/git-tree.png)
 @divend
 
----
+---?layout:center
 
-## Part I. How we use Git for<br> course development and management
+## Part I. How we use Git and Markdown for<br> <b>course development</b> and management
 
-![course master repo](assets/images/course-master-repo.png)
-
----?image=assets/images/gitlogo.png&size=90% 90%
-
-### But, wait: what is a 'Git'?
-
----
-
-### Or: why use Git in the classroom?
-
-@div[left-60]
-<br>
-@ol
-- Classrooms are composed of little learning events
-- Students receive feedback on their ability to demonstrate learning
-- In a distributed, asynchronous classroom, Git provides a system for managing feedback, iteration, and documentation of learning 
-@olend
+@div[left-50]
+![git and markdown](assets/images/git-markdown.png)
 @divend
 
-@div[right-40]
-![git logo](assets/images/gitlogo.png)
+@div[right-50]
+![npm certificate program](assets/images/certificate.png)
 @divend
 
----?image=assets/images/markdownlogo.png&size=90% 90%
+---?image=assets/images/course-master-repo.png&size=80% auto
 
-### And, wait: we also write in 'Markdown'?
+### All content created in a course "master" repo
 
----
+---?image=assets/images/course-module-repo.png&size=80% auto
 
-### And, wait: we also write in 'Markdown'?
+### Individual modules contain drafts of lessons, labs, and solutions
 
-@div[left-60]
-<br>
-@ol
-- Students receive feedback from instructors in Markdown
-- Students document their web map designs in Markdown
-- Students evaluate other students' work, and the work of professionals, in Markdown
-@olend
-@divend
+---?image=assets/images/lesson-readme.png&size=80% auto
 
-@div[right-40]
-![markdown logo](assets/images/markdownlogo.png)
-@divend
+### Lessons are written using Markdown
+
+---?image=assets/images/lesson-solution.png&size=80% auto
+
+### Repositories hold all files, data
+
+---?image=assets/images/lesson-dev-tracked.png&size=80% auto
+
+### And changes in content are tracked through Git
+
 
 ---
 
-## Part I. How we use Git for<br> <b>course development</b> and management
-
-@div[left-60]
-<br>
-@ol
-- In the beginning, we didn't know what we were doing
-- But that was a terrific way to start from scratch and make mistakes
-- Decision was made to avoid proprietary formats for encoding information (Word, Google Docs, etc)
-@olend
-@divend
-
-@div[right-40]
-![galaxy](assets/images/galaxy.jpg)
-@divend
-
----
-
-## Part I. How we use Git for<br> course development and <b>management</b>
-
----
-
-### Node scripts used to automate course management tasks
+### If we want to get fancy, Node scripts are used to automate course management tasks
 
 ```javascript
 var markdownpdf = require("markdown-pdf"), 
@@ -243,7 +239,23 @@ fs.createReadStream("./syllabus.md")
 
 console.log('PDF syllabus written to file')
 ```
+---
+#### Summary points of using Git for course management
 
+@div[left-40]
+![management question](assets/images/course-question.png)
+@divend
+
+@div[right-60]
+@ul[icon-list]
+- @fa[thumbs-up fa=5x fa-green] centralized workflow for course creation and maintence
+- @fa[thumbs-up fa=5x fa-green] easy to share course repo with other schools/instructors (builds community)
+- @fa[thumbs-up fa=5x fa-green] format for writing and editing content used for course deployment
+- @fa[thumbs-down fa=4x fa-red] using Git is complicated
+- @fa[thumbs-down fa=4x fa-red] is difficult getting faculty buy-in
+- @fa[thumbs-down fa=4x fa-red] doesn't do much for Geospatial data stored as binary
+@ulend
+@divend
 
 ---
 
@@ -270,8 +282,6 @@ console.log('PDF syllabus written to file')
 
 ### Student repos created from starter template
 
-<!-- .slide: data-background-image="assets/images/dust_scratches.png" data-background-size="20% 20%" data-background-repeat="repeat" -->
-
 @div[left-50]
 ![starter template](assets/images/starter-copied.png)
 @divend
@@ -290,3 +300,37 @@ console.log('PDF syllabus written to file')
 
 ## Part III. How using Git promotes<br> collaboration and builds community
 
+
+
+
+<!-- EXTRA STUFF -->
+
+---
+
+### Why use Git in the classroom?
+
+@div[left-60]
+<br>
+@ol
+- Classrooms are composed of little learning events
+- Students receive feedback on their ability to demonstrate learning
+- In a distributed, asynchronous classroom, Git provides a system for managing feedback, iteration, and documentation of learning 
+@olend
+@divend
+
+---
+
+### And, wait: we also write in 'Markdown'?
+
+@div[left-60]
+<br>
+@ol
+- Students receive feedback from instructors in Markdown
+- Students document their web map designs in Markdown
+- Students evaluate other students' work, and the work of professionals, in Markdown
+@olend
+@divend
+
+@div[right-40]
+![markdown logo](assets/images/markdownlogo.png)
+@divend

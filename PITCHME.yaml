@@ -1,10 +1,10 @@
 layout : top-right
 
-# logo : assets/images/logo.png
-
 theme-override : assets/css/PITCHME.css
 
 vertical-center : false
+
+background : assets/images/bg.png
 
 transition : fade
 
