@@ -32,7 +32,7 @@ Poetic gesture toward historical distance GIS education ... the hook.
     1. applying traditional cartographic principles to web interfaces, drawing upon user-centered design, usability engineering UX/UI practices
     1. fundamental geospatial processing and data analysis tasks using QGIS, GDAL/OGR, Node.js (and other misc tools: Mapshaper, Simple Statistics)
     3. web design and development using HTML/CSS/JavaScript. Uniquely offers an introduction to programming aimed at non-Computer Scientists/Engineers, often entirely new to coding
-* to date we've offered X courses over X terms, instructing 168 students, 56 who have graduated with a Graduate Certificate in Digital Mapping, and X more who are taking additional courses toward an eventual MS degree
+* to date we've offered around 12 courses per year, finishing our third year, instructing 168 students, 56 who have graduated with a Graduate Certificate in Digital Mapping, and around a dozen more who are taking additional courses that can be applied to an MS degree
 * to quickly showcase some of the student work coming out of the program ... 
   * example
   * example

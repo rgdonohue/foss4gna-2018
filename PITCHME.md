@@ -2,27 +2,44 @@
 
 # New maps in<br> the new medium
 
-## Teaching web cartography for a distributed workforce  
+## Teaching web cartography<br> for a distributed workforce  
 <br><br>
 [Rich Donohue](https://twitter.com/rgdonohue)  
 [Matthew W. Wilson](https://twitter.com/wilsonism)
 
 ---?image=assets/images/symap-assignment.png
 
-### Assignment from SYMAP<br> correspondence course, 1965
+### Assignment from SYMAP<br> correspondence course, ca. 1967
 
 ---?image=assets/images/symap-map.png
 
-### Map produced from SYMAP, 1965
+### Map produced from SYMAP, ca. 1967
 
 ---?image=assets/images/symap-coding-form.png
 
-### SYMAP correspondence<br> coding form, 1965
+### SYMAP correspondence<br> coding form, ca. 1967
 
 ---?image=assets/images/nmp-website.png&size=auto
 
-### https://newmapsplus.uky.edu/
+### [NewMapsPlus at the University of Kentucky](https://newmapsplus.uky.edu/)
 
+---
+
+### [NewMapsPlus at the University of Kentucky](https://newmapsplus.uky.edu/)
+
+@div[right-60]
+![](assets/images/nmp-website.png)
+@divend
+
+@div[left-40]
+@ol
+- began in Fall of 2015
+- offers 12+ courses per year
+- nearly 170 students have completed coursework
+- 56 students have graduated with a certificate
+- around a dozen more currently taking 'post-certificate' courses
+@olend
+@divend
 
 ---
 
@@ -78,10 +95,55 @@
 
 ---
 
-## Part I. Using Git for course development and management
+## Part I. How we use Git for<br> course development and management
 
 ![course master repo](assets/images/course-master-repo.png)
 
+---?image=assets/images/gitlogo.png&size=90% 90%
+
+### But, wait: what is a 'Git'?
+
+---
+
+### Or: why use Git in the classroom?
+
+@div[left-60]
+<br>
+@ol
+- Classrooms are composed of little learning events
+- Students receive feedback on their ability to demonstrate learning
+- In a distributed, asynchronous classroom, Git provides a system for managing feedback, iteration, and documentation of learning 
+@olend
+@divend
+
+@div[right-40]
+![git logo](assets/images/gitlogo.png)
+@divend
+
+---?image=assets/images/markdownlogo.png&size=90% 90%
+
+### And, wait: we also write in 'Markdown'?
+
+---
+
+### And, wait: we also write in 'Markdown'?
+
+@div[left-60]
+<br>
+@ol
+- Students receive feedback from instructors in Markdown
+- Students document their web map designs in Markdown
+- Students evaluate other students' work, and the work of professionals, in Markdown
+@olend
+@divend
+
+@div[right-40]
+![markdown logo](assets/images/markdownlogo.png)
+@divend
+
+---
+
+## Part I. How we use Git for<br> <b>course development</b> and management
 
 ---
 
@@ -102,9 +164,11 @@ console.log('PDF syllabus written to file')
 ---
 
 
+
+
 ---
 
-## Part II. Using Git within the learning process
+## Part II. How using Git improves<br> the learning process
 
 
 ---
@@ -143,12 +207,7 @@ console.log('PDF syllabus written to file')
 @ulend
 @divend
 
-
-
-
-
-
 ---
 
-## Part III. The role Git in collaboration and community building
+## Part III. How using Git promotes<br> collaboration and builds community
 
