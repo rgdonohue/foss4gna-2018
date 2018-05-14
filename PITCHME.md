@@ -21,7 +21,8 @@
 
 ---?image=assets/images/nmp-website.png&size=auto
 
-### [https://newmapsplus.uky.edu/](https://newmapsplus.uky.edu/)
+### https://newmapsplus.uky.edu/
+
 
 ---
 
