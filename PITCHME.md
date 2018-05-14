@@ -15,7 +15,7 @@
 ![](assets/images/donohue.jpg)
 @divend
 
-@div[right-40]
+@div[right-60]
 @ol
 - PhD in Geography from the University of Wisconsin
 - more stuff
@@ -31,7 +31,7 @@
 ![](assets/images/wilson.jpg)
 @divend
 
-@div[right-40]
+@div[right-60]
 @ol
 - PhD in Geography from the University of Washington
 - new book [New Lines: Critical GIS and the Trouble of the Map](https://www.upress.umn.edu/book-division/books/new-lines)
