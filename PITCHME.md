@@ -45,6 +45,14 @@
 
 ### Story time
 
+---?image=assets/images/harvard-divinity.jpg
+
+### Story time
+
+---?image=assets/images/harvard-memorialhall.jpg
+
+### Story time
+
 ---
 
 ### Map produced from SYMAP?
