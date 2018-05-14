@@ -58,6 +58,7 @@
 ### Story time
 
 @div[left-50]
+<br>
 ![](assets/images/horwoodmap.jpg)
 @divend
 
