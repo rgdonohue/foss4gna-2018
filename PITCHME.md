@@ -55,6 +55,18 @@
 
 ---
 
+### Story time
+
+@div[left-50]
+![](assets/images/horwoodmap.jpg)
+@divend
+
+@div[right-50]
+![](assets/images/fisher-benson-symap.jpg)
+@divend
+
+---
+
 ### Map produced from SYMAP?
 
 ---?image=assets/images/symap-map.png
