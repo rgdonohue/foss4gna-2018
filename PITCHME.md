@@ -59,6 +59,7 @@
 
 @div[left-50]
 <br>
+<br>
 ![](assets/images/horwoodmap.jpg)
 @divend
 
