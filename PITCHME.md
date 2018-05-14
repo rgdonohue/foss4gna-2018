@@ -59,7 +59,7 @@
 
 ---
 
-### Story time: CARD MAPPING --> SYMAP
+### CARD MAPPING --> SYMAP
 
 @div[left-50]
 <br>
