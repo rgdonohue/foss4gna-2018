@@ -86,11 +86,11 @@
 
 ---?image=assets/images/nmp-website.png&size=auto
 
-### [NewMapsPlus at the University of Kentucky](https://newmapsplus.uky.edu/)
+### [New Maps Plus at the U of Kentucky](https://newmapsplus.uky.edu/)
 
 ---
 
-### [NewMapsPlus at the University of Kentucky](https://newmapsplus.uky.edu/)
+### [New Maps Plus at the U of Kentucky](https://newmapsplus.uky.edu/)
 
 @div[right-60]
 ![](assets/images/nmp-website.png)
