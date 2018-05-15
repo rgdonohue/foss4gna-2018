@@ -326,6 +326,14 @@ fs.createReadStream("./syllabus.md")
 @olend
 @divend
 
+---?image=assets/images/mcluhan.jpg&size=90% 90%
+
+### The Medium is the Message
+
+---?image=assets/images/mcluhan-fade.jpg&size=90% 90%
+
+### The Medium is the Message
+
 <!-- EXTRA STUFF -->
 
 ---
