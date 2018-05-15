@@ -16,8 +16,10 @@
 @div[right-60]
 @ul
 - PhD in Geography from the University of Wisconsin-Madison
+- teaches web cartography for New Maps Plus
 - from a small town in SW Colorado
-- something funny
+- recently relocated to East St. Louis
+- would never eat a child
 @ulend
 @divend
 
@@ -222,25 +224,23 @@
 
 ### And changes in content are tracked through Git
 
-
 ---
 
-### If we want to get fancy, Node scripts are used to automate course management tasks
+### If we want to get fancy, npm and Node scripts are used to automate course management tasks
 
 ```javascript
-var markdownpdf = require("markdown-pdf"), 
-    fs = require("fs")
+const markdownpdf = require("markdown-pdf");
+const fs = require("fs");
 
+// read course syllabus in Markdown
 fs.createReadStream("./syllabus.md")
-    .pipe(markdownpdf({
+    .pipe(markdownpdf())
 
-    }))
-.pipe(fs.createWriteStream("MAP_673_Syllabus.pdf"))
-
-console.log('PDF syllabus written to file')
+    // create PDF version to file with Uni bureaucracy 
+    .pipe(fs.createWriteStream("MAP_673_Syllabus.pdf"));
 ```
 ---
-#### Summary points of using Git for course management
+#### Using Git and Markdown for course management?
 
 @div[left-40]
 ![management question](assets/images/course-question.png)
@@ -250,7 +250,7 @@ console.log('PDF syllabus written to file')
 @ul[icon-list]
 - @fa[thumbs-up fa=5x fa-green] centralized workflow for course creation and maintence
 - @fa[thumbs-up fa=5x fa-green] easy to share course repo with other schools/instructors (builds community)
-- @fa[thumbs-up fa=5x fa-green] format for writing and editing content used for course deployment
+- @fa[thumbs-up fa=5x fa-green] format for writing and editing content ready for course deployment
 - @fa[thumbs-down fa=4x fa-red] using Git is complicated
 - @fa[thumbs-down fa=4x fa-red] is difficult getting faculty buy-in
 - @fa[thumbs-down fa=4x fa-red] doesn't do much for Geospatial data stored as binary
@@ -262,20 +262,13 @@ console.log('PDF syllabus written to file')
 ## Part II. How using Git improves<br> the learning process
 
 
----
+---?image=assets/images/github-classroom.png&size=90% 90%
 
-### Highly recommended! Use GitHub Classroom
+### Highly recommended:<br> Use GitHub Classroom!
 
-![GitHub Classroom](assets/images/github-classroom.png)
-
-
-
-
----?image=assets/images/starter-template.png&size=auto 100%
+---?image=assets/images/starter-template.png&size=80% auto
 
 ### Starter template for each course module
-
-<!-- ![starter template](assets/images/starter-template.png) -->
 
 
 ---
