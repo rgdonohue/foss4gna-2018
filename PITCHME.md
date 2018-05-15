@@ -298,7 +298,11 @@ fs.createReadStream("./syllabus.md")
 
 ## Some conclusions...
 
-Your mileage may vary.
+---
+
+## Some conclusions...
+
+<br><br>Your mileage may vary.
 
 ---?image=assets/images/computer.jpg&size=90% 90%
 
@@ -308,11 +312,11 @@ Your mileage may vary.
 
 ### Intentionality
 
-@div[right-40]
+@div[left-40]
 ![](assets/images/symap-errors.jpg)
 @divend
 
-@div[left-60]
+@div[right-60]
 <br>
 @ol
 - Then and now: educators must be intentional in choosing tools and platforms to support learning
