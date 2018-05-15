@@ -86,11 +86,11 @@
 
 ---?image=assets/images/nmp-website.png&size=auto
 
-### [New Maps Plus at the U of Kentucky](https://newmapsplus.uky.edu/)
+### [New Maps Plus<br> at the University of Kentucky](https://newmapsplus.uky.edu/)
 
 ---
 
-### [New Maps Plus at the U of Kentucky](https://newmapsplus.uky.edu/)
+### [New Maps Plus<br> at the University of Kentucky](https://newmapsplus.uky.edu/)
 
 @div[right-60]
 ![](assets/images/nmp-website.png)
@@ -206,7 +206,7 @@
 
 ---?image=assets/images/course-master-repo.png&size=80% auto
 
-### All content created in a course "master" repo
+### All content created in a<br> course "master" repo
 
 ---?image=assets/images/course-module-repo.png&size=80% auto
 
@@ -222,7 +222,7 @@
 
 ---?image=assets/images/lesson-dev-tracked.png&size=80% auto
 
-### And changes in content are tracked through Git
+### And changes in content<br> are tracked through Git
 
 ---
 
@@ -240,7 +240,7 @@ fs.createReadStream("./syllabus.md")
     .pipe(fs.createWriteStream("MAP_673_Syllabus.pdf"));
 ```
 ---
-#### Using Git and Markdown for course management?
+#### Using Git and Markdown<br> for course management?
 
 @div[left-40]
 ![management question](assets/images/course-question.png)
@@ -268,12 +268,12 @@ fs.createReadStream("./syllabus.md")
 
 ---?image=assets/images/starter-template.png&size=80% auto
 
-### Starter template for each course module
+### Starter template for each<br> course module
 
 
 ---
 
-### Student repos created from starter template
+### Student repos created<br> from starter template
 
 @div[left-50]
 ![starter template](assets/images/starter-copied.png)
