@@ -334,6 +334,20 @@ fs.createReadStream("./syllabus.md")
 
 ### The Medium is the Message
 
+@div[right-40]
+<br><br>
+![](assets/images/course-question.jpg)
+@divend
+
+@div[left-60]
+<br>
+@ol
+- No one will ever use course management systems after they leave the university
+- <i>No one really wants to use these systems while IN the university</i>
+- The systems of communication and feedback should mirror the systems uses in the profession
+@olend
+@divend
+
 <!-- EXTRA STUFF -->
 
 ---
