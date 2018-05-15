@@ -214,7 +214,7 @@
 
 ---?image=assets/images/lesson-readme.png&size=80% auto
 
-### Lessons are written using Markdown
+### Lessons are written<br> using Markdown
 
 ---?image=assets/images/lesson-solution.png&size=80% auto
 
@@ -294,7 +294,32 @@ fs.createReadStream("./syllabus.md")
 ## Part III. How using Git promotes<br> collaboration and builds community
 
 
+---
 
+## Some conclusions...
+
+Your mileage may vary.
+
+---?image=assets/images/computer.jpg&size=90% 90%
+
+### Intentionality
+
+---?image=assets/images/computer.jpg&size=90% 90%
+
+### Intentionality
+
+@div[right-40]
+![](assets/images/symap-errors.jpg)
+@divend
+
+@div[left-60]
+<br>
+@ol
+- Then and now: educators must be intentional in choosing tools and platforms to support learning
+- Then and now: students should be immersed in an environment where errors are opportunities for learning
+- Then and now: there is always more to learn
+@olend
+@divend
 
 <!-- EXTRA STUFF -->
 
