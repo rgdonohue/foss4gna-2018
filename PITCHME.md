@@ -313,6 +313,7 @@ fs.createReadStream("./syllabus.md")
 ### Intentionality
 
 @div[left-40]
+<br><br>
 ![](assets/images/symap-errors.jpg)
 @divend
 
