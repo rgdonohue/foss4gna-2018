@@ -302,13 +302,13 @@ fs.createReadStream("./syllabus.md")
 
 ## Some conclusions...
 
-<br><br>Your mileage may vary.
+<br><i>Your mileage may vary.</i>
 
 ---?image=assets/images/computer.jpg&size=90% 90%
 
 ### Intentionality
 
----?image=assets/images/computer.jpg&size=90% 90%
+---?image=assets/images/computer-fade.jpg&size=90% 90%
 
 ### Intentionality
 
