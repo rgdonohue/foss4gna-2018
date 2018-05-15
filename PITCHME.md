@@ -27,11 +27,11 @@
 
 ## Matthew W. Wilson
 
-@div[left-40]
+@div[right-40]
 ![](assets/images/wilson.jpg)
 @divend
 
-@div[right-60]
+@div[left-60]
 @ul
 - PhD in Geography from the University of Washington
 - from a small town in northwest Missouri: Pumpkin Center
