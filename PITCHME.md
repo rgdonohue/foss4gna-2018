@@ -336,12 +336,11 @@ fs.createReadStream("./syllabus.md")
 
 <br>
 @div[right-40]
-<br><br>
+<br>
 ![](assets/images/course-question.png)
 @divend
 
 @div[left-60]
-<br>
 @ol
 - No one will ever use course management systems after they leave the university
 - <i>No one really wants to use these systems while IN the university</i>
