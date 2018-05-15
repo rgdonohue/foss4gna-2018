@@ -336,7 +336,7 @@ fs.createReadStream("./syllabus.md")
 
 @div[right-40]
 <br><br>
-![](assets/images/course-question.jpg)
+![](assets/images/course-question.png)
 @divend
 
 @div[left-60]
