@@ -193,7 +193,7 @@
 
 ---?layout:center
 
-## Part I. How we use Git and Markdown for<br> <b>course development</b> and management
+#### Part I. How we use Git and Markdown for<br> <b>course development</b> and management
 
 @div[left-50]
 ![git and markdown](assets/images/git-markdown.png)
@@ -211,13 +211,23 @@
 
 ### Individual modules contain drafts of lessons, labs, and solutions
 
----?image=assets/images/lesson-readme.png&size=80% auto
+---?image=assets/images/markdown-lesson.png&size=80% auto
 
 ### Lessons are written<br> using Markdown
 
+---?image=assets/images/lesson-readme.png&size=80% auto
+
+### Content is immediately ready for deployment and digestion
+
+---
+
+### Animated GIFs embedded in lessons are useful
+
+![gif](assets/images/markdown-gif.gif)
+
 ---?image=assets/images/lesson-solution.png&size=80% auto
 
-### Repositories hold all files, data
+### Repositories hold all files and (most) data
 
 ---?image=assets/images/lesson-dev-tracked.png&size=80% auto
 
@@ -239,7 +249,7 @@ fs.createReadStream("./syllabus.md")
     .pipe(fs.createWriteStream("MAP_673_Syllabus.pdf"));
 ```
 ---
-#### Using Git and Markdown<br> for course management?
+### Using Git and Markdown<br> for course management?
 
 @div[left-40]
 ![management question](assets/images/course-question.png)
@@ -251,15 +261,22 @@ fs.createReadStream("./syllabus.md")
 - @fa[thumbs-up fa=5x fa-green] easy to share course repo with other schools/instructors (builds community)
 - @fa[thumbs-up fa=5x fa-green] format for writing and editing content ready for course deployment
 - @fa[thumbs-down fa=4x fa-red] using Git is complicated
-- @fa[thumbs-down fa=4x fa-red] is difficult getting faculty buy-in
+- @fa[thumbs-down fa=4x fa-red] is difficult getting all faculty buy-in
 - @fa[thumbs-down fa=4x fa-red] doesn't do much for Geospatial data stored as binary
 @ulend
 @divend
 
 ---
 
-## Part II. How using Git improves<br> the learning process
+#### Part II. How using Git improves<br> the learning process
 
+---?image=assets/images/hello-world.png&size=90% auto
+
+### New Maps Plus begins with students creating a GitHub account
+
+---?image=assets/images/github-repo.png&size=90% auto
+
+### GitHub repos are <br>new de facto resume
 
 ---?image=assets/images/github-classroom.png&size=90% 90%
 
@@ -272,7 +289,6 @@ fs.createReadStream("./syllabus.md")
 ---?image=assets/images/github-classroom-lessons.png&size=80% auto
 
 ### GitHub Classroom creates invitation links from starter templates
-
 
 ---
 
@@ -294,15 +310,112 @@ fs.createReadStream("./syllabus.md")
 
 ---
 
-## Part III. How using Git promotes<br> collaboration and builds community
+### Student process for each weekly module
 
+@div[left-50]
+<br>
+@ol
+- accept invitation link and clone repository
+- read lesson within README.md file
+- create files and edit code
+- add, commit, and push changes using Git through progress
+@olend
+@divend
+
+@div[right-50]
+![github desktop](assets/images/github-desktop.png)
+@divend
 
 ---
 
-## Some conclusions...
+### When students need help
+
+@div[left-50]
+<br>
+@ol
+- student adds/commits and pushes changes up to their repo.
+- instructor then clones student repo to local (or pulls down recent changes)
+- instructor branches and examines/tests/edits code
+- instructor pushes up branch for student to examine (or to potentially merge with their master)
+@olend
+@divend
+
+@div[right-50]
+![git feedback](assets/images/git-feedback.png)
+@divend
 
 ---
 
+### Instruction facilitated by <br> the latest tools of the trade
+
+@div[left-50]
+<br>
+@ol
+- Slack interface allows for fast back and forth feedback
+- screensharing and video conferencing compliment Git process
+- very few emails!
+@olend
+@divend
+
+@div[right-50]
+![slack](assets/images/slack.png)
+@divend
+
+---
+ 
+ ### Assignment evaluation and feedback
+
+![eval pull request](assets/images/eval-pull-request.png)
+
+--- 
+
+ ### Assignment evaluation and feedback
+
+![eval pull request](assets/images/feedback-code.png)
+
+--- 
+
+ ### Assignment evaluation and feedback
+
+![eval pull request](assets/images/quiz-answers.png)
+
+---
+
+### Evaluation commits are many and specific 
+
+![eval pull request](assets/images/feedback-commits.png)
+
+---
+
+### Highlights of learning process
+
+@div[left-50]
+<br>
+@ol
+- an efficient Git workflow facilitates fast responses to students
+- GitHub Issues helps track needs 
+- 
+@olend
+@divend
+
+---?image=assets/images/git-branches.png&size=auto 90%
+
+### Part III. How using Git promotes<br> collaboration and builds community
+
+---?image=assets/images/turf-repo.png&size=auto 90%
+
+### Collaborative repositories share web mapping solutions
+
+---?image=assets/images/turf-voronoi.png&size=auto 90%
+
+### Web mapping solutions accompanied by documentation
+
+---?image=assets/images/student-pr-turf.png&size=auto 90%
+
+### Students contributing back to wider community
+
+
+---
 ## Some conclusions...
 
 <br><i>Your mileage may vary.</i>
@@ -350,10 +463,5 @@ fs.createReadStream("./syllabus.md")
 - The systems of communication and feedback should mirror the systems used in the profession
 @olend
 @divend
-
-
-
-## Part III. How using Git promotes<br> collaboration and builds community
-
 
 ## Conclusions
