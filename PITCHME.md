@@ -265,12 +265,12 @@ fs.createReadStream("./syllabus.md")
 @divend
 
 @div[right-60]
+Summary Part I:
 @ul[icon-list]
 - @fa[thumbs-up fa=5x fa-green] centralized workflow for course creation and maintenance
 - @fa[thumbs-up fa=5x fa-green] easy to share course repo with other schools/instructors (builds community)
 - @fa[thumbs-up fa=5x fa-green] format for writing and editing content ready for course deployment
-- @fa[thumbs-down fa=4x fa-red] using Git is complicated
-- @fa[thumbs-down fa=4x fa-red] is difficult getting all faculty buy-in
+- @fa[thumbs-down fa=4x fa-red] using Git is complicated and challenging for some faculty
 - @fa[thumbs-down fa=4x fa-red] doesn't do much for geospatial data stored as binary
 @ulend
 @divend
@@ -400,17 +400,30 @@ fs.createReadStream("./syllabus.md")
 
 @div[left-50]
 <br>
+Summary Part II:
 <br>
-@ol
-- an efficient Git workflow facilitates fast responses to students
-- GitHub Issues helps track needs
-- Git workflow mirrors professional practice
-@olend
+<br>
+@ul[icon-list]
+- @fa[thumbs-up fa=5x fa-green] an efficient Git workflow facilitates fast responses to students
+- @fa[thumbs-up fa=5x fa-green] GitHub Issues helps track needs
+- @fa[thumbs-up fa=5x fa-green] Git workflow mirrors professional practice
+- @fa[thumbs-down fa=5x fa-red] Learning Git is difficult
+- @fa[thumbs-down fa=5x fa-red] Merge conflicts and Git problems are distracting
+@ulend
+@divend
+
+@div[left-50]
+![iceland](assets/images/iceland.png)
 @divend
 
 ---?image=assets/images/git-branches.png&size=auto 90%
 
 ### Part III. How using Git promotes<br> collaboration and builds community
+
+---?image=assets/images/collab.png&size=auto 90%
+
+### MAP675: Collaborative Geovizualization
+
 
 ---?image=assets/images/turf-repo.png&size=auto 90%
 
@@ -427,18 +440,24 @@ fs.createReadStream("./syllabus.md")
 ---
 ### Using Git for community building?
 
+@div[left-40]
+![iceland](assets/images/madagascar.png)
+@divend
+
 @div[right-60]
+Summary Part III:
 @ul[icon-list]
-- @fa[thumbs-up fa=5x fa-green] students can directly provide feedback to industry tools, products, solutions
-- @fa[thumbs-up fa=5x fa-green] 
-- @fa[thumbs-up fa=5x fa-green] format for writing and editing content ready for course deployment
-- @fa[thumbs-down fa=4x fa-red] using Git is complicated
-- @fa[thumbs-down fa=4x fa-red] is difficult getting all faculty buy-in
-- @fa[thumbs-down fa=4x fa-red] doesn't do much for geospatial data stored as binary
+- @fa[thumbs-up fa=5x fa-green] students can directly provide feedback to industry
+- @fa[thumbs-up fa=5x fa-green] students can assist instructor to correct/improve the curricula
+- @fa[thumbs-up fa=5x fa-green] students work in a distributed environment to experience team-based development
+- @fa[thumbs-down fa=4x fa-red] students still dislike group work
+- @fa[thumbs-down fa=4x fa-red] the potential for dishonesty (exploitation of eager group members) may mask individual student progress
 @ulend
 @divend
----
-## Some conclusions...
+
+---?image=assets/images/conclusion-bgnd.png&size=auto 90%
+
+### Some conclusions...
 
 <br><i>Your mileage may vary.</i>
 

@@ -42,7 +42,7 @@ a, a:visited {
 }
 
 .gp-menu {
-  display: none;
+  /* display: none; */
 } 
 
 .toc-title, .toc-title p {
