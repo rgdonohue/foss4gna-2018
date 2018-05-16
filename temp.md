@@ -26,11 +26,11 @@
 
 ## Matthew W. Wilson
 
-@div[right-40]
+@div[left-40]
 ![](assets/images/wilson.jpg)
 @divend
 
-@div[left-60]
+@div[right-60]
 @ul
 - PhD in Geography from the University of Washington
 - from a small town in northwest Missouri: Pumpkin Center
@@ -85,11 +85,11 @@
 
 ---?image=assets/images/nmp-website.png&size=auto
 
-### [New Maps Plus<br> at the University of Kentucky](https://newmapsplus.uky.edu/)
+### [New Maps Plus at the U of Kentucky](https://newmapsplus.uky.edu/)
 
 ---
 
-### [New Maps Plus<br> at the University of Kentucky](https://newmapsplus.uky.edu/)
+### [New Maps Plus at the U of Kentucky](https://newmapsplus.uky.edu/)
 
 @div[right-60]
 ![](assets/images/nmp-website.png)
@@ -205,7 +205,7 @@
 
 ---?image=assets/images/course-master-repo.png&size=80% auto
 
-### All content created in a<br> course "master" repo
+### All content created in a course "master" repo
 
 ---?image=assets/images/course-module-repo.png&size=80% auto
 
@@ -213,7 +213,7 @@
 
 ---?image=assets/images/lesson-readme.png&size=80% auto
 
-### Lessons are written<br> using Markdown
+### Lessons are written using Markdown
 
 ---?image=assets/images/lesson-solution.png&size=80% auto
 
@@ -221,7 +221,7 @@
 
 ---?image=assets/images/lesson-dev-tracked.png&size=80% auto
 
-### And changes in content<br> are tracked through Git
+### And changes in content are tracked through Git
 
 ---
 
@@ -239,7 +239,7 @@ fs.createReadStream("./syllabus.md")
     .pipe(fs.createWriteStream("MAP_673_Syllabus.pdf"));
 ```
 ---
-#### Using Git and Markdown<br> for course management?
+#### Using Git and Markdown for course management?
 
 @div[left-40]
 ![management question](assets/images/course-question.png)
@@ -267,7 +267,7 @@ fs.createReadStream("./syllabus.md")
 
 ---?image=assets/images/starter-template.png&size=80% auto
 
-### Starter template for each<br> course module
+### Starter template for each course module
 
 ---?image=assets/images/github-classroom-lessons.png&size=80% auto
 
@@ -276,7 +276,7 @@ fs.createReadStream("./syllabus.md")
 
 ---
 
-### Student repos created<br> from starter template
+### Students accept assignments and repos are created <br>from starter template
 
 @div[left-50]
 ![starter template](assets/images/starter-copied.png)
@@ -294,62 +294,6 @@ fs.createReadStream("./syllabus.md")
 
 ---
 
-## Part III. How using Git promotes<br> collaboration and builds community
-
-
----
-
-## Some conclusions...
-
----
-
-## Some conclusions...
-
-<br><i>Your mileage may vary.</i>
-
----?image=assets/images/computer.jpg&size=90% 90%
-
-### Intentionality
-
----?image=assets/images/computer-fade.jpg&size=90% 90%
-
-### Intentionality
-
-@div[left-40]
-<br><br>
-![](assets/images/symap-errors.jpg)
-@divend
-
-@div[right-60]
-<br>
-@ol
-- Then and now: educators must be intentional in choosing tools and platforms to support learning
-- Then and now: students should be immersed in an environment where errors are opportunities for learning
-- Then and now: there is always more to learn
-@olend
-@divend
-
----?image=assets/images/mcluhan.jpg&size=90% 90%
-
-### The Medium is the Message
-
----?image=assets/images/mcluhan-fade.jpg&size=90% 90%
-
-### The Medium is the Message
-
-<br>
-@div[right-40]
-<br>
-![](assets/images/course-question.png)
-@divend
-
-@div[left-60]
-@ol
-- No one will ever use course management systems after they leave the university
-- <i>No one really wants to use these systems while IN the university</i>
-- The systems of communication and feedback should mirror the systems used in the profession
-@olend
-@divend
 
 
 
