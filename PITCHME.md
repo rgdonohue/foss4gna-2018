@@ -16,10 +16,9 @@
 @div[right-60]
 @ul
 - PhD in Geography from the University of Wisconsin-Madison
+- from a small town in Southwest Colorado
 - teaches web cartography for New Maps Plus
-- from a small town in SW Colorado
-- recently relocated to East St. Louis
-- would never eat a child
+- is currently introducing this talk
 @ulend
 @divend
 
@@ -270,10 +269,14 @@ fs.createReadStream("./syllabus.md")
 
 ### Starter template for each course module
 
+---?image=assets/images/github-classroom-lessons.png&size=80% auto
+
+### GitHub Classroom creates invitation links from starter templates
+
 
 ---
 
-### Student repos created from starter template
+### Students accept assignments and repos are created <br>from starter template
 
 @div[left-50]
 ![starter template](assets/images/starter-copied.png)
@@ -291,39 +294,10 @@ fs.createReadStream("./syllabus.md")
 
 ---
 
+
+
+
 ## Part III. How using Git promotes<br> collaboration and builds community
 
 
-
-
-<!-- EXTRA STUFF -->
-
----
-
-### Why use Git in the classroom?
-
-@div[left-60]
-<br>
-@ol
-- Classrooms are composed of little learning events
-- Students receive feedback on their ability to demonstrate learning
-- In a distributed, asynchronous classroom, Git provides a system for managing feedback, iteration, and documentation of learning 
-@olend
-@divend
-
----
-
-### And, wait: we also write in 'Markdown'?
-
-@div[left-60]
-<br>
-@ol
-- Students receive feedback from instructors in Markdown
-- Students document their web map designs in Markdown
-- Students evaluate other students' work, and the work of professionals, in Markdown
-@olend
-@divend
-
-@div[right-40]
-![markdown logo](assets/images/markdownlogo.png)
-@divend
+## Conclusions
