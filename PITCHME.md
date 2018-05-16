@@ -1,9 +1,14 @@
 # New maps in<br> the new medium
 
+<!-- .slide: data-background-image="assets/images/nmp.png" data-background-size="100% 100%"  -->
+
 ## Teaching web cartography<br> for a distributed workforce  
 <br><br>
+
+
 [Rich Donohue](https://twitter.com/rgdonohue)  
-[Matthew W. Wilson](https://twitter.com/wilsonism)
+[Matthew W. Wilson](https://twitter.com/wilsonism)  
+[https://newmapsplus.uky.edu](https://newmapsplus.uky.edu/)
 
 ---
 
@@ -14,6 +19,7 @@
 @divend
 
 @div[right-60]
+<br>
 @ul
 - PhD in Geography from the University of Wisconsin-Madison
 - from a small town in Southwest Colorado
@@ -34,6 +40,7 @@
 @ul
 - PhD in Geography from the University of Washington
 - from a small town in northwest Missouri: Pumpkin Center
+- associate professor at UK and visiting scholar at Harvard CGA
 - new book [New Lines: Critical GIS and the Trouble of the Map](https://www.upress.umn.edu/book-division/books/new-lines)
 - learned Markdown and Git for this presentation
 - <i>and obviously not very well</i>
@@ -42,17 +49,18 @@
 
 ---?image=assets/images/storytime.jpg
 
-### Story time
+### Story time:<br> on geography and innovation
+
 
 ---?image=assets/images/harvard-divinity.jpg
 
-### Story time
+### Story time: Harvard, 1930
 
 ---?image=assets/images/harvard-memorialhall.jpg
 
-### Story time
+### Story time: Harvard, 1965
 
----
+---?image=assets/images/symap-map-zoom.png
 
 ### Story time: SYMAP?
 
@@ -155,7 +163,7 @@
 <br><br>
 @ul
 - for-profit company hosting Git-enabled repositories
-- provides additional web services (Issue tracking, project Wiki)
+- provides additional web services (issue tracking, project Wiki)
 - offers (free) web-hosting ... great for student maps and portfolios!
 @ulend
 @divend
@@ -176,7 +184,7 @@
 
 ---
 
-### Where this talk is heading?
+### Where this talk is heading?<br> An outline
 
 @div[left-60]
 <br>
@@ -193,7 +201,7 @@
 
 ---?layout:center
 
-#### Part I. How we use Git and Markdown for<br> <b>course development</b> and management
+### Part I. How we use Git and Markdown for <b>course development</b> and management
 
 @div[left-50]
 ![git and markdown](assets/images/git-markdown.png)
@@ -217,17 +225,17 @@
 
 ---?image=assets/images/lesson-readme.png&size=80% auto
 
-### Content is immediately ready for deployment and digestion
+### Content is immediately ready for deployment and use
 
 ---
 
-### Animated GIFs embedded in lessons are useful
+### Animated GIFs embedded in lessons
 
 ![gif](assets/images/markdown-gif.gif)
 
 ---?image=assets/images/lesson-solution.png&size=80% auto
 
-### Repositories hold all files and (most) data
+### Repositories hold <br>all files and (most) data
 
 ---?image=assets/images/lesson-dev-tracked.png&size=80% auto
 
@@ -252,23 +260,24 @@ fs.createReadStream("./syllabus.md")
 ### Using Git and Markdown<br> for course management?
 
 @div[left-40]
+<br><br>
 ![management question](assets/images/course-question.png)
 @divend
 
 @div[right-60]
 @ul[icon-list]
-- @fa[thumbs-up fa=5x fa-green] centralized workflow for course creation and maintence
+- @fa[thumbs-up fa=5x fa-green] centralized workflow for course creation and maintenance
 - @fa[thumbs-up fa=5x fa-green] easy to share course repo with other schools/instructors (builds community)
 - @fa[thumbs-up fa=5x fa-green] format for writing and editing content ready for course deployment
 - @fa[thumbs-down fa=4x fa-red] using Git is complicated
 - @fa[thumbs-down fa=4x fa-red] is difficult getting all faculty buy-in
-- @fa[thumbs-down fa=4x fa-red] doesn't do much for Geospatial data stored as binary
+- @fa[thumbs-down fa=4x fa-red] doesn't do much for geospatial data stored as binary
 @ulend
 @divend
 
 ---
 
-#### Part II. How using Git improves<br> the learning process
+### Part II. How using Git improves<br> the learning process
 
 ---?image=assets/images/hello-world.png&size=90% auto
 
@@ -310,15 +319,15 @@ fs.createReadStream("./syllabus.md")
 
 ---
 
-### Student process for each weekly module
+### Student process for<br> each weekly module
 
 @div[left-50]
-<br>
+<br><br><br>
 @ol
 - accept invitation link and clone repository
 - read lesson within README.md file
 - create files and edit code
-- add, commit, and push changes using Git through progress
+- add, commit, and push changes using Git
 @olend
 @divend
 
@@ -333,7 +342,7 @@ fs.createReadStream("./syllabus.md")
 @div[left-50]
 <br>
 @ol
-- student adds/commits and pushes changes up to their repo.
+- student adds/commits and pushes changes up to their repo
 - instructor then clones student repo to local (or pulls down recent changes)
 - instructor branches and examines/tests/edits code
 - instructor pushes up branch for student to examine (or to potentially merge with their master)
@@ -381,20 +390,21 @@ fs.createReadStream("./syllabus.md")
 
 ---
 
-### Evaluation commits are many and specific 
+### Evaluation commits are<br> many and specific 
 
 ![eval pull request](assets/images/feedback-commits.png)
 
 ---
 
-### Highlights of learning process
+### Highlights of using Git<br> in the learning process
 
 @div[left-50]
 <br>
+<br>
 @ol
 - an efficient Git workflow facilitates fast responses to students
-- GitHub Issues helps track needs 
-- 
+- GitHub Issues helps track needs
+- Git workflow mirrors professional practice
 @olend
 @divend
 
@@ -404,17 +414,29 @@ fs.createReadStream("./syllabus.md")
 
 ---?image=assets/images/turf-repo.png&size=auto 90%
 
-### Collaborative repositories share web mapping solutions
+### Collaborative repositories<br> share web mapping solutions
 
 ---?image=assets/images/turf-voronoi.png&size=auto 90%
 
-### Web mapping solutions accompanied by documentation
+### Web mapping solutions<br> accompanied by documentation
 
 ---?image=assets/images/student-pr-turf.png&size=auto 90%
 
-### Students contributing back to wider community
+### Students contributing<br> back to wider community
 
+---
+### Using Git for community building?
 
+@div[right-60]
+@ul[icon-list]
+- @fa[thumbs-up fa=5x fa-green] students can directly provide feedback to industry tools, products, solutions
+- @fa[thumbs-up fa=5x fa-green] 
+- @fa[thumbs-up fa=5x fa-green] format for writing and editing content ready for course deployment
+- @fa[thumbs-down fa=4x fa-red] using Git is complicated
+- @fa[thumbs-down fa=4x fa-red] is difficult getting all faculty buy-in
+- @fa[thumbs-down fa=4x fa-red] doesn't do much for geospatial data stored as binary
+@ulend
+@divend
 ---
 ## Some conclusions...
 
@@ -464,4 +486,19 @@ fs.createReadStream("./syllabus.md")
 @olend
 @divend
 
-## Conclusions
+---?image=assets/images/FOSS4G_Leave_Feedback_slide.png&size=90% 90%
+
+---
+# New maps in<br> the new medium
+
+<!-- .slide: data-background-image="assets/images/nmp.png" data-background-size="100% 100%"  -->
+
+## Teaching web cartography<br> for a distributed workforce  
+<br><br>
+
+
+[Rich Donohue](https://twitter.com/rgdonohue)  
+[Matthew W. Wilson](https://twitter.com/wilsonism)  
+[https://newmapsplus.uky.edu](https://newmapsplus.uky.edu/)
+
+---
